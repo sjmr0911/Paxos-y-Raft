@@ -24,6 +24,6 @@ No se requieren librerías externas. Solo se usan módulos estándar como `rando
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu_usuario/raft_simulation.git
+   git clone https://github.com/sjmr0911/Paxos-y-Raft.git
    cd raft_simulation
 
